@@ -3,7 +3,7 @@
 - [I. Assets](#I-Assets)
   - [1.1 Current Assets](#11-Current-Assets)
     - [1.1.1 Cash And Cash Equivalents](#111-Cash-And-Cash-Equivalents)
-    - [1.1.2 Accounts Receivable](#11--Accounts-Receivable)
+    - [1.1.2 Accounts Receivable](#11-Accounts-Receivable)
   - [1.2 Long-term Assets](#12-Long-term-Assets)
 
 ## I. Assets
