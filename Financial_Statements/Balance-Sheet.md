@@ -1,10 +1,13 @@
 # Balance Sheet
 
+## Table of Contents
 - [I. Assets](#I-Assets)
   - [1.1 Current Assets](#11-Current-Assets)
     - [1.1.1 Cash And Cash Equivalents](#111-Cash-And-Cash-Equivalents)
     - [1.1.2 Accounts Receivable](#112-Accounts-Receivable)
   - [1.2 Long-term Assets](#12-Long-term-Assets)
+
+
 
 ## I. Assets
 ### 1.1 Current Assets
@@ -15,14 +18,6 @@
 property, plant, equipment, intangibles, investments, and deferred charges.
 - **Current assets** include cash and other assets that are convertible to cash, usually within the **operating cycle** of the company.
 - **Operating cycle** is the amount of time from commitment of cash for purchases until the collection of cash resulting from sales of goods or services. It is the process by which a company converts cash into short-term assets and back into cash as part of its ongoing operating activities.
-
-#### 1.1.1 Cash And Cash Equivalents
-- **Cash**, the most liquid asset, includes currency available and funds on deposit
-- **Cash equivalents** are highly liquid, short-term investments that are readily convertible into cash and so near maturity that they have minimal risk of price changes due to interest rate movements. These investments usually carry maturities of three months or less. **Examples of cash equivalents are short-term treasury bills, commercial paper, and money market funds**. Cash equivalents often serve as temporary repositories of excess cash.
-- The concept of **liquidity** is important in financial statement analysis. By liquidity, we mean the amount of cash or cash equivalents the company has on hand and the amount of cash it can raise in a short period of time. Liquidity provides flexibility to take advantage of changing market conditions and to react to strategic actions by competitors.
-- Liquidity also relates to the ability of a company to meet its obligations as they mature. Many companies with strong balance sheets (where there exists substantial equity capital in relation to total assets) can still run into serious difficulties because of illiquidity.
-- In general, companies in a dynamic industry require increased liquidity to take advantage of opportunities or to react to a quickly changing competitive landscape.
-- **To the extent that cash equivalents are invested in equity securities, companies risk a reduction in liquidity should the market value of those investments decline.**
 ![image](https://user-images.githubusercontent.com/85560091/128621510-b21c16c9-039c-497d-8a85-ca5042030907.png)
 - For a manufacturing company, this would entail purchasing raw materials, converting them to finished goods, and then selling and collecting cash from receivables.
 - **Cash represents the starting point, and the end point, of the operating cycle**. The operating cycle is used to classify assets (and liabilities) as either current or noncurrent. **Current assets** are expected to be sold, collected, or used within one year or the operating cycle, whichever is longer. 
@@ -36,6 +31,15 @@ property, plant, equipment, intangibles, investments, and deferred charges.
 - The excess of current assets over current liabilities is called **working capital**
 - **Working capital is a double-edged sword—companies need working capital to effectively operate, yet working capital is costly because it must be financed and can entail other operating costs, such as credit losses on accounts receivable and storage and logistics costs for inventories. Many companies attempt to improve profitability and cash flow by reducing investment in current assets through methods such as effective credit underwriting and collection of receivables, and just-in-time inventory management. In addition, companies try to finance a large portion of their current assets through current liabilities, such as accounts payable and accruals, in an attempt to reduce working capital.**
 
+
+
+#### 1.1.1 Cash And Cash Equivalents
+- **Cash**, the most liquid asset, includes currency available and funds on deposit
+- **Cash equivalents** are highly liquid, short-term investments that are readily convertible into cash and so near maturity that they have minimal risk of price changes due to interest rate movements. These investments usually carry maturities of three months or less. **Examples of cash equivalents are short-term treasury bills, commercial paper, and money market funds**. Cash equivalents often serve as temporary repositories of excess cash.
+- The concept of **liquidity** is important in financial statement analysis. By liquidity, we mean the amount of cash or cash equivalents the company has on hand and the amount of cash it can raise in a short period of time. Liquidity provides flexibility to take advantage of changing market conditions and to react to strategic actions by competitors.
+- Liquidity also relates to the ability of a company to meet its obligations as they mature. Many companies with strong balance sheets (where there exists substantial equity capital in relation to total assets) can still run into serious difficulties because of illiquidity.
+- In general, companies in a dynamic industry require increased liquidity to take advantage of opportunities or to react to a quickly changing competitive landscape.
+- **To the extent that cash equivalents are invested in equity securities, companies risk a reduction in liquidity should the market value of those investments decline.**
 
 #### 1.1.2 Accounts Receivable
 - **Receivables** are amounts due to the company that arise from the sale of products or services, or from advances (loaning of money) to other companies.
