@@ -128,4 +128,3 @@ Average cost |24,000 | 16,800 | 7,200
 ### Long-term Liabilities
 
 ## III. Shareholders’ equity
-- [Current Assets](#current-assets)
