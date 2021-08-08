@@ -5,8 +5,8 @@
   - **[1.1 Current Assets](#11-Current-Assets)**
     - **[1.1.1 Cash And Cash Equivalents](#111-Cash-And-Cash-Equivalents)**
     - **[1.1.2 Accounts Receivable](#112-Accounts-Receivable)**
-
-
+    - **[1.1.3 Prepaid Expenses](#113-Prepaid-Expenses)**
+    - **[1.1.4 Inventory](#114-Inventory)**
 
 ## I. Assets
 ### 1.1 Current Assets
@@ -70,7 +70,7 @@ property, plant, equipment, intangibles, investments, and deferred charges.
 - The **inventory equation** is useful in understanding inventory flows. For a merchandising company:
   - **Beginning inventories + Net purchases - Cost of goods sold = Ending inventories**
 
-#### ```Flow of Costs```
+##### ```Flow of Costs```
 - The costs of inventories are initially recorded on the balance sheet.
 - As the inventories are sold, these costs are removed from the balance sheet and flow into the income statement as cost of goods sold (COGS).
 - Costs cannot be in two places at the same time; either they remain on the balance sheet (as a future expense) or are recognized currently in the income statement and reduce profitability to match against sales revenue.
