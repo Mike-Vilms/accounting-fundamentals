@@ -31,7 +31,6 @@ property, plant, equipment, intangibles, investments, and deferred charges.
 - **Working capital is a double-edged sword—companies need working capital to effectively operate, yet working capital is costly because it must be financed and can entail other operating costs, such as credit losses on accounts receivable and storage and logistics costs for inventories. Many companies attempt to improve profitability and cash flow by reducing investment in current assets through methods such as effective credit underwriting and collection of receivables, and just-in-time inventory management. In addition, companies try to finance a large portion of their current assets through current liabilities, such as accounts payable and accruals, in an attempt to reduce working capital.**
 
 
-
 #### 1.1.1 Cash And Cash Equivalents
 - **Cash**, the most liquid asset, includes currency available and funds on deposit
 - **Cash equivalents** are highly liquid, short-term investments that are readily convertible into cash and so near maturity that they have minimal risk of price changes due to interest rate movements. These investments usually carry maturities of three months or less. **Examples of cash equivalents are short-term treasury bills, commercial paper, and money market funds**. Cash equivalents often serve as temporary repositories of excess cash.
@@ -39,6 +38,7 @@ property, plant, equipment, intangibles, investments, and deferred charges.
 - Liquidity also relates to the ability of a company to meet its obligations as they mature. Many companies with strong balance sheets (where there exists substantial equity capital in relation to total assets) can still run into serious difficulties because of illiquidity.
 - In general, companies in a dynamic industry require increased liquidity to take advantage of opportunities or to react to a quickly changing competitive landscape.
 - **To the extent that cash equivalents are invested in equity securities, companies risk a reduction in liquidity should the market value of those investments decline.**
+
 
 #### 1.1.2 Accounts Receivable
 - **Receivables** are amounts due to the company that arise from the sale of products or services, or from advances (loaning of money) to other companies.
@@ -58,6 +58,60 @@ property, plant, equipment, intangibles, investments, and deferred charges.
   - **The sale of receivables to a bank or commercial finance company is called factoring.**
   - Receivables can be kept off the balance sheet only when the company selling its receivables surrenders all control over the receivables to an independent buyer of sufficient financial strength. This means as long as a buyer has any type of recourse or the selling company has any degree of retained interest in the receivables, the company selling receivables has to continue to record both an asset and a compensating liability for the amount sold.
   - The securitization of receivables is often accomplished by establishing a special purpose entity (SPE) to purchase the receivables from the company and finance the purchase via sale of bonds into the market.
+
+
+#### 1.1.3 Prepaid Expenses
+- **Prepaid expenses** are advance payments for services or goods not yet received.
+- Examples are advance payments for rent, insurance, utilities, and property taxes.
+- Prepaid expenses usually are classified in current assets because they reflect services due that would otherwise require use of current assets.
+
+#### 1.1.4 Inventory
+- **Inventories** are goods held for sale as part of a company’s normal business operations. With the exception of certain service organizations, inventories are essential and important assets of companies.
+- The **inventory equation** is useful in understanding inventory flows. For a merchandising company:
+  - **Beginning inventories + Net purchases - Cost of goods sold = Ending inventories**
+
+#### ```Flow of Costs```
+- The costs of inventories are initially recorded on the balance sheet.
+- As the inventories are sold, these costs are removed from the balance sheet and flow into the income statement as cost of goods sold (COGS).
+- Costs cannot be in two places at the same time; either they remain on the balance sheet (as a future expense) or are recognized currently in the income statement and reduce profitability to match against sales revenue.
+-  If all inventories acquired or manufactured during the period are sold, then COGS is equal to the cost of the goods purchased or manufactured. When inventories remain at the end of the accounting period, however, it is important to determine which inventories have been sold and which costs remain on the balance sheet.
+- ![image](https://user-images.githubusercontent.com/85560091/123995881-5e92d380-d994-11eb-9779-6e326c023e9d.png)
+- There are **three GAAP options** in determining how to calculate COGS against sales; Let's consider next scenario:
+```
+Inventory on January 1, Year 2 40 units @ $500 each $20,000
+Inventories purchased during the year 60 units @ $600 each 36,000
+Cost of goods available for sale 100 units $56,000
+```
+- **"First-In, First-Out"**: This method assumes that the first units purchased are the first units sold;
+```
+Sales $24,000
+COGS (30 @ $500 each) 15,000
+Gross profit $ 9,000
+```
+- **"Last-In, First-Out"**: Under the LIFO inventory costing assumption, the last units purchased are the first to be sold; LIFO is not allowed under IFRS as a method for valuing inventories.
+```
+Sales $24,000
+COGS (30 @ $500 each) 15,000
+Gross profit $ 9,000
+```
+- **"Average Cost"**: COGS is computed as a weighted average of the total cost of goods available for sale divided by the number of units available for sale;
+```
+Sales $24,000
+COGS (30 @ $560 each) 16,800
+Gross profit $ 7,200
+```
+- The income statements under the three methods, then, are as follows:
+
+Method | Sales | COGS | Gross Profit 
+--- | --- | --- | --- 
+FIFO | $24,000 | $15,000 | $9,000
+LIFO | 24,000 | 18,000 | 6,000
+Average cost |24,000 | 16,800 | 7,200
+
+- **As the examples presented here highlight, gross profit can be affected by the company’s choice of its inventory costing method. In periods of rising prices, FIFO produces higher gross profits than LIFO because lower cost inventories are matched against sales revenues at current market prices. This is sometimes referred to as FIFO’s phantom profits as the gross profit is actually a sum of two components: an economic profit and a holding gain.**
+  - The economic profit is equal to the number of units sold multiplied by the difference between the sales price and the replacement cost of the inventories
+  - The holding gain is the increase in replacement cost since the inventories were acquired and is equal to the number of units sold multiplied by the difference between the current replacement cost and the original acquisition cost:
+
 ### Long-term Assets
 #### PPE
 #### Goodwill
