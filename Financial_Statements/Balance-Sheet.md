@@ -1,5 +1,6 @@
 # Balance Sheet
 
+
 ## Table of Contents
 - **[I. Assets](#I-Assets)**
   - **[1.1 Current Assets](#11-Current-Assets)**
@@ -7,6 +8,8 @@
     - **[1.1.2 Accounts Receivable](#112-Accounts-Receivable)**
     - **[1.1.3 Prepaid Expenses](#113-Prepaid-Expenses)**
     - **[1.1.4 Inventory](#114-Inventory)**
+  - **[1.2 Long-term Assets](#12-Long-term-Assets)**
+
 
 ## I. Assets
 ### 1.1 Current Assets
