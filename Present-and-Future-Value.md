@@ -14,5 +14,9 @@
 ![image](https://user-images.githubusercontent.com/85560091/128620733-78deda62-0efa-4af8-a145-6b95cd8b52f3.png)
 
 ## III. Future Value of an Ordinary Annuity
+![image](https://user-images.githubusercontent.com/85560091/128620773-be879ece-0f86-4f04-b119-67260c51bde9.png)
+https://user-images.githubusercontent.com/57194114/112742369-a4826a80-8f53-11eb-90ef-65b7e66a46ef.png
 
 ## IV. Present Value of an Ordinary Annuity
+https://user-images.githubusercontent.com/57194114/112742379-b532e080-8f53-11eb-9fb4-47fa779f8e61.png
+https://user-images.githubusercontent.com/57194114/112742383-bd8b1b80-8f53-11eb-887a-301519f94725.png
