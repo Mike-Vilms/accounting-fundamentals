@@ -134,7 +134,7 @@ Average cost |24,000 | 16,800 | 7,200
 - Allocation of costs is called depreciation when applied to tangible fixed assets, amortization when applied to intangible assets, and depletion when applied to natural resources. 
 - We must remember that cost allocation is a process to match asset cost with its benefits — it is not a valuation process. Asset carrying value (capitalized value less cumulative cost allocation) need not reflect fair value.
 - Three factors determine the cost allocation amount: **useful life, salvage value, and allocation method**. 
-- However, each of these factors requires estimates — estimates that involve managerial discretion. Analysis must cosider the effects of these estimates on financial statements, especially when estimates change.
+- However, each of these factors requires estimates — estimates that involve managerial discretion. Analysis must consider the effects of these estimates on financial statements, especially when estimates change.
 
 ##### ``Impairment`` 
 - When the expected (undiscounted) cash flows are less than the asset’s carrying amount (cost less accumulated depreciation), the asset is deemed to be impaired and is written down to its fair market value (the discounted amount of expected cash flows).
