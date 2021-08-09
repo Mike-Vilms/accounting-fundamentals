@@ -116,6 +116,11 @@ Average cost |24,000 | 16,800 | 7,200
   - The holding gain is the increase in replacement cost since the inventories were acquired and is equal to the number of units sold multiplied by the difference between the current replacement cost and the original acquisition cost:
 
 ### 1.2 Long-term Assets
+- The process of long-term asset accounting involves three distinct activities: **capitalization, allocation, and impairment**.
+- **Capitalization** is the process of deferring a cost that is incurred in the current period, but whose benefits are expected to extend to one or more future periods. It is capitalization that creates an asset account.
+- **Allocation is the
+process of periodically expensing a deferred cost (asset) to one or more future expected
+benefit periods. This allocation process is called depreciation for tangible assets, amortization for intangible assets, and depletion for natural resource
 
 #### 1.2.1 Property, Plant, and Equipment
 
