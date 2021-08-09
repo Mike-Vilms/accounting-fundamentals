@@ -137,19 +137,13 @@ Average cost |24,000 | 16,800 | 7,200
 - However, each of these factors requires estimates — estimates that involve managerial discretion. Analysis must cosider the effects of these estimates on financial statements, especially when estimates change.
 
 ##### ``Impairment`` 
-- When the expected (undiscounted) cash flows are less than the asset’s
-carrying amount (cost less accumulated depreciation), the asset is deemed to be impaired and is written down to its fair market value (the discounted amount of expected
-cash flows). The effect is to reduce the carrying amount of the asset on the balance
-sheet and to reduce profitability by a like amount. The fair value of the asset, then, becomes the new cost and is depreciated over its remaining useful life. It is not written up
-if expected cash flows subsequently improve. From our analysis perspective, two
-distortions arise from asset impairment:
-1. Conservative biases distort long-term asset valuation because assets are written
-down but not written up.
-2. Large transitory effects from recognizing asset impairments distort net income.
-Note that asset impairment is still an allocation process, not a move toward valuation.
-That is, an asset impairment is recorded when managers’ expectations of future cash inflows from the asset fall below carrying value. This yields an immediate write-off in a
-desire to better match future cost allocations with future benefits.
-
+- When the expected (undiscounted) cash flows are less than the asset’s carrying amount (cost less accumulated depreciation), the asset is deemed to be impaired and is written down to its fair market value (the discounted amount of expected cash flows).
+- The effect is to reduce the carrying amount of the asset on the balance sheet and to reduce profitability by a like amount. 
+- The fair value of the asset, then, becomes the new cost and is depreciated over its remaining useful life. 
+- **It is not written up if expected cash flows subsequently improve**. From our analysis perspective, two distortions arise from asset impairment:
+  - 1. Conservative biases distort long-term asset valuation because assets are written down but not written up.
+  - 2. Large transitory effects from recognizing asset impairments distort net income. Note that asset impairment is still an allocation process, not a move toward valuation. That is, an asset impairment is recorded when managers’ expectations of future cash inflows from the asset fall below carrying value. This yields an immediate write-off in a desire to better match future cost allocations with future benefits.
+- https://www.youtube.com/watch?v=V0o5Ki_mvBU
 
 #### 1.2.1 Property, Plant, and Equipment
 
