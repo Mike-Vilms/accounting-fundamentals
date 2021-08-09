@@ -118,9 +118,40 @@ Average cost |24,000 | 16,800 | 7,200
 ### 1.2 Long-term Assets
 - The process of long-term asset accounting involves three distinct activities: **capitalization, allocation, and impairment**.
 - **Capitalization** is the process of deferring a cost that is incurred in the current period, but whose benefits are expected to extend to one or more future periods. It is capitalization that creates an asset account.
-- **Allocation is the
-process of periodically expensing a deferred cost (asset) to one or more future expected
-benefit periods. This allocation process is called depreciation for tangible assets, amortization for intangible assets, and depletion for natural resource
+- **Allocation** is the process of periodically expensing a deferred cost (asset) to one or more future expected benefit periods. This allocation process is called **depreciation** for tangible assets, **amortization** for intangible assets, and **depletion** for natural resource
+- **Impairment** is the process of writing down the book value of the asset when its expected cash flows are no longer sufficient to recover the remaining cost reported on the balance sheet.
+
+##### ```Capitalization```
+- A long-term asset is created through the process of capitalization. 
+- Capitalization means putting the asset on the balance sheet rather than immediately expensing its cost in the income statement
+- For hard assets, such as PPE, this process is relatively simple; the asset is recorded at its purchase price
+- https://www.youtube.com/watch?v=zOmwJ_GpdQ0
+- https://www.youtube.com/watch?v=Grs-fK-YXgw
+- *For soft assets such as R&D, advertising, and wage costs, capitalization is more problematic. Although all of these costs arguably produce future benefits and, therefore, meet the test to be recorded as an asset, neither the amount of the future benefits, nor their useful life, can be reliably measured*. **#TODO**
+
+##### ```Allocation``` Allocation is the periodic assignment of asset cost to expense over its
+expected useful life (benefit period). Allocation of costs is called depreciation when
+applied to tangible fixed assets, amortization when applied to intangible assets, and
+depletion when applied to natural resources. Each refers to cost allocation. We must
+remember that cost allocation is a process to match asset cost with its benefits—it is not
+a valuation process. Asset carrying value (capitalized value less cumulative cost allocation) need not reflect fair value.
+Three factors determine the cost allocation amount: useful life, salvage value, and
+allocation method. We discuss these factors shortly. However, each of these factors
+requires estimates—estimates that involve managerial discretion. Analysis must consider the effects of these estimates on financial statements, especially when estimates
+change.
+Impairment. When the expected (undiscounted) cash flows are less than the asset’s
+carrying amount (cost less accumulated depreciation), the asset is deemed to be impaired and is written down to its fair market value (the discounted amount of expected
+cash flows). The effect is to reduce the carrying amount of the asset on the balance
+sheet and to reduce profitability by a like amount. The fair value of the asset, then, becomes the new cost and is depreciated over its remaining useful life. It is not written up
+if expected cash flows subsequently improve. From our analysis perspective, two
+distortions arise from asset impairment:
+1. Conservative biases distort long-term asset valuation because assets are written
+down but not written up.
+2. Large transitory effects from recognizing asset impairments distort net income.
+Note that asset impairment is still an allocation process, not a move toward valuation.
+That is, an asset impairment is recorded when managers’ expectations of future cash inflows from the asset fall below carrying value. This yields an immediate write-off in a
+desire to better match future cost allocations with future benefits.
+
 
 #### 1.2.1 Property, Plant, and Equipment
 
