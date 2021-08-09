@@ -129,17 +129,15 @@ Average cost |24,000 | 16,800 | 7,200
 - https://www.youtube.com/watch?v=Grs-fK-YXgw
 - *For soft assets such as R&D, advertising, and wage costs, capitalization is more problematic. Although all of these costs arguably produce future benefits and, therefore, meet the test to be recorded as an asset, neither the amount of the future benefits, nor their useful life, can be reliably measured*. **#TODO**
 
-##### ```Allocation``` Allocation is the periodic assignment of asset cost to expense over its
-expected useful life (benefit period). Allocation of costs is called depreciation when
-applied to tangible fixed assets, amortization when applied to intangible assets, and
-depletion when applied to natural resources. Each refers to cost allocation. We must
-remember that cost allocation is a process to match asset cost with its benefits—it is not
-a valuation process. Asset carrying value (capitalized value less cumulative cost allocation) need not reflect fair value.
-Three factors determine the cost allocation amount: useful life, salvage value, and
-allocation method. We discuss these factors shortly. However, each of these factors
-requires estimates—estimates that involve managerial discretion. Analysis must consider the effects of these estimates on financial statements, especially when estimates
-change.
-Impairment. When the expected (undiscounted) cash flows are less than the asset’s
+##### ```Allocation``` 
+- Allocation is the periodic assignment of asset cost to expense over its expected useful life (benefit period). 
+- Allocation of costs is called depreciation when applied to tangible fixed assets, amortization when applied to intangible assets, and depletion when applied to natural resources. 
+- We must remember that cost allocation is a process to match asset cost with its benefits — it is not a valuation process. Asset carrying value (capitalized value less cumulative cost allocation) need not reflect fair value.
+- Three factors determine the cost allocation amount: **useful life, salvage value, and allocation method**. 
+- However, each of these factors requires estimates — estimates that involve managerial discretion. Analysis must consider the effects of these estimates on financial statements, especially when estimates change.
+
+##### ``Impairment`` 
+- When the expected (undiscounted) cash flows are less than the asset’s
 carrying amount (cost less accumulated depreciation), the asset is deemed to be impaired and is written down to its fair market value (the discounted amount of expected
 cash flows). The effect is to reduce the carrying amount of the asset on the balance
 sheet and to reduce profitability by a like amount. The fair value of the asset, then, becomes the new cost and is depreciated over its remaining useful life. It is not written up
@@ -158,7 +156,8 @@ desire to better match future cost allocations with future benefits.
 
 
 #### Goodwill
-#### Intangible Assets
+- https://www.youtube.com/watch?v=SoZpDwoyEJ8
+
 
 ## II. Liabilities
 ### Current Liabilities
