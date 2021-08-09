@@ -9,7 +9,7 @@
     - **[1.1.3 Prepaid Expenses](#113-Prepaid-Expenses)**
     - **[1.1.4 Inventory](#114-Inventory)**
   - **[1.2 Long-term Assets](#12-Long-term-Assets)**
-
+     - **[1.2.1 Property, Plant, and Equipment](#121-Property-Plant-and-Equipment)**
 
 ## I. Assets
 ### 1.1 Current Assets
@@ -115,8 +115,12 @@ Average cost |24,000 | 16,800 | 7,200
   - The economic profit is equal to the number of units sold multiplied by the difference between the sales price and the replacement cost of the inventories
   - The holding gain is the increase in replacement cost since the inventories were acquired and is equal to the number of units sold multiplied by the difference between the current replacement cost and the original acquisition cost:
 
-### Long-term Assets
-#### PPE
+### 1.2 Long-term Assets
+
+#### 1.2.1 Property, Plant, and Equipment
+
+
+
 #### Goodwill
 #### Intangible Assets
 
