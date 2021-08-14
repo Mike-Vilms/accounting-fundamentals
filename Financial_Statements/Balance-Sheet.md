@@ -167,13 +167,16 @@ Average cost |24,000 | 16,800 | 7,200
 #### 2.1.1 Accounts Payable
 - Accounts payable includes money a company owes it vendors for services and products that it has purchased in the normal course of business and anticipates paying back in the short term.
 - Note that the terms **accounts payable** and **trade payables** are often used synonymously. **Trade payables** generally refer to vendors from which a company buys business supplies and direct materials: items it uses to manufacture products for sale.
+
 #### 2.1.2 Payroll and Taxes
 - Most companies accrue payroll and related payroll taxes, which means the company owes them but has not yet paid them. 
   - This concept is easy to understand if you think about the way you’ve been paid by an employer in the past: Most companies have a built-in lag time between when employees earn their wages and when the paychecks are cut.
   - For example, Birchstone Manufacturing pays its employees on the 1st and 15th of every month with 15 days of wages in arrears. This means that when the employees get their paychecks on October 15, the paychecks compensate work they did from September 16 through September 30.
 
-#### Accrued Expenses
-
+#### 2.1.3 Unearned Revenue
+- **Unearned revenue** occurs when a company receives payment for goods or services rendered before it has actually provided the goods or services. Because the business has an obligation to fulfill its end of the contract, the unearned revenue is a current liability until the company completes its end of the transaction.
+- *To record revenue, it has to be earned and realizable. Because the customer has already paid, the realizable part is a wrap. However, in this situation, the revenue is not yet earned*
+- 
 ### 2.2 Long-term Liabilities
 
 ## III. Shareholders’ equity
