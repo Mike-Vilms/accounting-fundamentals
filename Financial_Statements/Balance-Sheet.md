@@ -187,10 +187,20 @@ Average cost |24,000 | 16,800 | 7,200
 
 ### 3.1 Capital Stock
 - https://www.investopedia.com/terms/c/capitalstock.asp
-- **Capital stock** is the amount of common and preferred shares that a company is authorized to issue—recorded on the balance sheet under shareholders' equity.
+- https://www.youtube.com/watch?v=TZ2uWgtQXBo
+- **Capital stock** is the amount of common and preferred shares that a company is authorized to issue—recorded on the balance sheet under shareholders' equity
+- **Capital stock** are shares issued to equity holders in return for assets and services. There are two basic types of capital stock: preferred and common
 - The amount of capital stock is the maximum amount of shares that a company can ever have outstanding.
 - **```CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"```**
   - Authorized shares are those that a company is legally able to issue—the capital stock, while outstanding shares are those that have actually been issued and remain outstanding to shareholders.
   - The number of outstanding shares, which are shares issued to investors, is not necessarily equal to the number of available or authorized shares
   - https://www.investopedia.com/terms/o/outstandingshares.asp
+#### 3.1.1 Preffered Stock
+- **Preferred stock** is a special class of stock possessing preferences or features not enjoyed by common stock. The more typical features attached to preferred stock include:
+  - **Dividend distribution preferences** including participating and cumulative features
+  - **Liquidation priorities**
+  - **Convertibility (redemption) into common stock** — the SEC requires separate presentation of these shares when preferred stock possesses characteristics of debt (such as redemption requirements)
+  - **Nonvoting rights** — which can change with changes in items such as arrearages in dividends
+  - **Call provisions** — usually protecting preferred shareholders against premature redemption (call premiums often decrease over time) [???]
+
 ### 3.2 Retained Earnings
