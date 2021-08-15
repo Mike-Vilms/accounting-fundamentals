@@ -189,5 +189,5 @@ Average cost |24,000 | 16,800 | 7,200
 - https://www.investopedia.com/terms/c/capitalstock.asp
 - **Capital stock** is the amount of common and preferred shares that a company is authorized to issue—recorded on the balance sheet under shareholders' equity.
 - The amount of capital stock is the maximum amount of shares that a company can ever have outstanding.
-- ``` **CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"** ```
+- **```CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"```**
 ### 3.2 Retained Earnings
