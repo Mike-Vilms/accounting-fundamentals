@@ -14,8 +14,8 @@
   - **[2.1 Current Liabilities](#21-Current-Liabilities)**
     - **[2.1.1 Accounts Payable](#211-Accounts-Payable)**
   - **[2.2 Long-term Liabilities](#22-Long-term-Liabilities)**
- - **[III. Shareholders' Equity]**(#III-Shareholders-Equity)**
- 
+ - **[III. Shareholders' Equity](#III-Shareholders-Equity)**
+   - **[3.1 Capital Stock](#31-Capital-Stock)**
 
 ## I. Assets
 ### 1.1 Current Assets
