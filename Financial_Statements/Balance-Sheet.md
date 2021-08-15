@@ -13,9 +13,9 @@
 - **[II. Liabilities](#II-Liabilities)**
   - **[2.1 Current Liabilities](#21-Current-Liabilities)**
     - **[2.1.1 Accounts Payable](#211-Accounts-Payable)**
-    - 
   - **[2.2 Long-term Liabilities](#22-Long-term-Liabilities)**
-    - []
+ - **[III. Shareholders' Equity]**(#III-Shareholders-Equity)**
+ 
 
 ## I. Assets
 ### 1.1 Current Assets
@@ -179,4 +179,15 @@ Average cost |24,000 | 16,800 | 7,200
 - 
 ### 2.2 Long-term Liabilities
 
-## III. Shareholders’ equity
+## III. Shareholders' Equity
+- Equity refers to owner (shareholder) financing of a company
+- It is viewed as reflecting the claims of owners on the net assets of the company
+- Holders of equity securities are typically subordinate to creditors, meaning that creditors’ claims are settled first
+- **Equity holders are exposed to the maximum risk associated with a company**Equity holders are exposed to the maximum risk associated with a company
+
+### 3.1 Capital Stock
+- https://www.investopedia.com/terms/c/capitalstock.asp
+- **Capital stock** is the amount of common and preferred shares that a company is authorized to issue—recorded on the balance sheet under shareholders' equity.
+- The amount of capital stock is the maximum amount of shares that a company can ever have outstanding.
+- ``` **CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"** ```
+### 3.2 Retained Earnings
