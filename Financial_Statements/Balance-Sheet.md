@@ -194,7 +194,7 @@ Average cost |24,000 | 16,800 | 7,200
 - **```CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"```**
   - Authorized shares are those that a company is legally able to issue—the capital stock, while outstanding shares are those that have actually been issued and remain outstanding to shareholders.
   - The number of outstanding shares, which are shares issued to investors, is not necessarily equal to the number of available or authorized shares
-  - https://www.investopedia.com/terms/o/outstandingshares.asp
+  - *Shares Outstanding*: https://www.investopedia.com/terms/o/outstandingshares.asp
 - **```Contributed Capital or Paid-in Capital```**: is the total financing received from shareholders in return for capital shares. Contributed capital is usually divided into two parts:
   - One part is assigned to the **par or stated value** of capital shares: common and/or preferred stock (if stock is no-par, then it is assigned the total financing)
   - The remainder is reported as contributed (or paid-in) capital in excess of par or stated value (also called **additional paid-in capital**)
