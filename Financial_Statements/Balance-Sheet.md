@@ -186,15 +186,21 @@ Average cost |24,000 | 16,800 | 7,200
 - **Equity holders are exposed to the maximum risk associated with a company**Equity holders are exposed to the maximum risk associated with a company
 
 ### 3.1 Capital Stock
-- https://www.investopedia.com/terms/c/capitalstock.asp
-- https://www.youtube.com/watch?v=TZ2uWgtQXBo
-- **Capital stock** is the amount of common and preferred shares that a company is authorized to issue—recorded on the balance sheet under shareholders' equity
+- **Capital stock** is the amount of common and preferred shares that a company is authorized to issue — recorded on the balance sheet under shareholders' equity
 - **Capital stock** are shares issued to equity holders in return for assets and services. There are two basic types of capital stock: preferred and common
+  - *Capital Stock*: https://www.investopedia.com/terms/c/capitalstock.asp
+  - *Capital Stock*: https://www.youtube.com/watch?v=TZ2uWgtQXBo
 - The amount of capital stock is the maximum amount of shares that a company can ever have outstanding.
 - **```CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"```**
   - Authorized shares are those that a company is legally able to issue—the capital stock, while outstanding shares are those that have actually been issued and remain outstanding to shareholders.
   - The number of outstanding shares, which are shares issued to investors, is not necessarily equal to the number of available or authorized shares
   - https://www.investopedia.com/terms/o/outstandingshares.asp
+- **```Contributed Capital or Paid-in Capital```**: is the total financing received from shareholders in return for capital shares. Contributed capital is usually divided into two parts:
+  - One part is assigned to the **par or stated value** of capital shares: common and/or preferred stock (if stock is no-par, then it is assigned the total financing)
+  - The remainder is reported as contributed (or paid-in) capital in excess of par or stated value (also called **additional paid-in capital**)
+  - When combined, these accounts reflect the amounts paid in by shareholders for financing business activities 
+- **```"Treasury Stock" or "Buybacks"```**
+  - *Treasury Stock*: https://www.youtube.com/watch?v=MusfMph9xEQ
 #### 3.1.1 Preffered Stock
 - **Preferred stock** is a special class of stock possessing preferences or features not enjoyed by common stock. The more typical features attached to preferred stock include:
   - **Dividend distribution preferences** including participating and cumulative features
@@ -202,5 +208,13 @@ Average cost |24,000 | 16,800 | 7,200
   - **Convertibility (redemption) into common stock** — the SEC requires separate presentation of these shares when preferred stock possesses characteristics of debt (such as redemption requirements)
   - **Nonvoting rights** — which can change with changes in items such as arrearages in dividends
   - **Call provisions** — usually protecting preferred shareholders against premature redemption (call premiums often decrease over time) [???]
+- *Preferred Stock*: https://www.youtube.com/watch?v=xwwwpie6NX8
+
+
+#### 3.1.2 Common Stock
+- **Common stock** is a class of stock representing ownership interest and bearing ultimate risks and rewards of company performance
+- **Common stock represents residual interests** — having no preference, but reaping residual net income and absorbing net losses.
+- There is sometimes more than one class of common stock for major companies. The distinctions between common stock classes typically are differences in dividend, voting, or other rights.
+
 
 ### 3.2 Retained Earnings
