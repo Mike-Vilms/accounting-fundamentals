@@ -215,6 +215,7 @@ Average cost |24,000 | 16,800 | 7,200
 - **Common stock** is a class of stock representing ownership interest and bearing ultimate risks and rewards of company performance
 - **Common stock represents residual interests** — having no preference, but reaping residual net income and absorbing net losses.
 - There is sometimes more than one class of common stock for major companies. The distinctions between common stock classes typically are differences in dividend, voting, or other rights.
-
+- *Common Stock*: https://www.youtube.com/watch?v=HaIJWGhjgnc
+- *Common Stock vs. Additional Paid-in Capital*: https://www.youtube.com/watch?v=8GSdrqrbp8A
 
 ### 3.2 Retained Earnings
