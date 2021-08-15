@@ -190,4 +190,7 @@ Average cost |24,000 | 16,800 | 7,200
 - **Capital stock** is the amount of common and preferred shares that a company is authorized to issue—recorded on the balance sheet under shareholders' equity.
 - The amount of capital stock is the maximum amount of shares that a company can ever have outstanding.
 - **```CAPITAL STOCK IS NOT EQUAL TO "SHARES OUTSTANDING"```**
+  - Authorized shares are those that a company is legally able to issue—the capital stock, while outstanding shares are those that have actually been issued and remain outstanding to shareholders.
+  - The number of outstanding shares, which are shares issued to investors, is not necessarily equal to the number of available or authorized shares
+  - https://www.investopedia.com/terms/o/outstandingshares.asp
 ### 3.2 Retained Earnings
