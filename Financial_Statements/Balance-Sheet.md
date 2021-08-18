@@ -1,6 +1,5 @@
 # Balance Sheet
 
-
 ## Table of Contents
 - **[I. Assets](#I-Assets)**
   - **[1.1 Current Assets](#11-Current-Assets)**
@@ -16,7 +15,8 @@
   - **[2.2 Long-term Liabilities](#22-Long-term-Liabilities)**
  - **[III. Shareholders' Equity](#III-Shareholders-Equity)**
    - **[3.1 Capital Stock](#31-Capital-Stock)**
-
+   - **[3.2 Retained Earnings](#31-Retained-Earnings)**
+ 
 ## I. Assets
 ### 1.1 Current Assets
 - Assets are resources controlled by a company for the purpose of generating profit. 
@@ -200,6 +200,9 @@ Average cost |24,000 | 16,800 | 7,200
   - The remainder is reported as contributed (or paid-in) capital in excess of par or stated value (also called **additional paid-in capital**)
   - When combined, these accounts reflect the amounts paid in by shareholders for financing business activities 
 - **```"Treasury Stock" or "Buybacks"```**
+  - **Treasury stock (or buybacks)** are the shares of a company’s stock reacquired after having been previously issued and fully paid for. 
+  - Acquisition of treasury stock by a company reduces both assets and shareholders’ equity
+  - Consistent with this transaction, treasury stock is not an asset, it is a contra-equity account (negative equity). Treasury stock is typically recorded at cost, and the most common method of presentation is to deduct treasury stock cost from the total of shareholders’ equity. When companies record treasury stock at par, they typically report it as a contra to (reduction of ) its related class of stock. [???]
   - *Treasury Stock*: https://www.youtube.com/watch?v=MusfMph9xEQ
 #### 3.1.1 Preffered Stock
 - **Preferred stock** is a special class of stock possessing preferences or features not enjoyed by common stock. The more typical features attached to preferred stock include:
@@ -219,3 +222,9 @@ Average cost |24,000 | 16,800 | 7,200
 - *Common Stock vs. Additional Paid-in Capital*: https://www.youtube.com/watch?v=8GSdrqrbp8A
 
 ### 3.2 Retained Earnings
+- Retained earnings are the earned capital of a company. The retained earnings account reflects the accumulation of undistributed earnings (net income) of a company since its inception.
+- This contrasts with the capital stock and additional paid-in capital accounts that constitute capital contributed by shareholders.
+- Retained earnings are the primary source of dividend distributions to shareholders:
+  - *Cash Dividends*: A cash dividend is a distribution of cash to shareholders. It is the most common form of dividend and, once declared, is a liability of a company
+  - Another form of dividend is the dividend in kind, or property dividend. These dividends are payable in the assets of a company, in goods, or in the stock of another corporation. Such dividends are valued at the market value of the assets distributed
+ - A *stock dividend* is a distribution of a company’s own shares to shareholders on a pro rata basis. It represents, in effect, a permanent capitalization of earnings. Shareholders receive additional shares in return for reallocation of retained earnings to capital accounts.
