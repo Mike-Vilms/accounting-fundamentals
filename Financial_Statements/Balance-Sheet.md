@@ -152,6 +152,13 @@ Average cost |24,000 | 16,800 | 7,200
 - https://www.youtube.com/watch?v=V0o5Ki_mvBU
 
 #### 1.2.1 Property, Plant, and Equipment
+- **Property, plant, and equipment (or plant assets)** are noncurrent tangible assets used in the manufacturing, merchandising, or service processes to generate revenues and cash flows for more than one period.
+  - "Property" refers to the cost of real estate
+  - "Plant" refers to buildings and operating structures
+  - "Equipment" refers to machinery used in operations
+- *Property, Plant, and Equipment == PPE == assets == capital assets == fixed assets*
+
+
 
 
 
