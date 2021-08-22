@@ -43,5 +43,5 @@
 ![image](https://user-images.githubusercontent.com/85560091/130342369-3e57b34e-7378-4d98-8616-d34cd6eeecce.png)
 - *What is Net Present Value (NPV)?*: https://corporatefinanceinstitute.com/resources/knowledge/valuation/net-present-value-npv/
 - *What is the NPV Formula?*: https://corporatefinanceinstitute.com/resources/knowledge/valuation/npv-formula/
-
+- *Net Present Value (NPV)*: https://www.youtube.com/watch?v=HFFkFMfotT0
 ## Internal Rate of Return
