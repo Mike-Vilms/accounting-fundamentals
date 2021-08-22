@@ -1,9 +1,19 @@
 # Basic Definitions and Concepts
+- **[Book Value](#Book-Value)**
 - **[Enterprise Value](#Enterprise-Value)**
 - [Free Cash Flow (FCF)](#free-cash-flow)
 - [DCF Model](#dcf-model)
 - **[Net Present Value (NPV)](#net-present-value)**
 - **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
+
+## Book Value
+- Book value is conventional terminology referring to net asset value — that is, total assets reduced by claims against them
+- The *book value of common stock* is equal to the total assets less liabilities and claims of securities senior to common stock (such as preferred stock) at amounts reported on the balance sheet (but can also include unbooked claims of senior securities)
+- A simple means of computing book value is to add up the common stock equity accounts and reduce this total by any senior claims not reflected in the balance sheet (including preferred stock dividend arrearages, liquidation premiums, or other asset preferences to which preferred shares are entitled)
+- **Book value per share** is the per share amount resulting from a company’s liquidation at amounts reported on its balance sheet
+![image](https://user-images.githubusercontent.com/85560091/130372898-d0d4fac8-0955-4387-9648-f909ccedaee6.png)
+
+
 
 ## Enterprise Value
 - Enterprise Value (EV) is the measure of a company’s total value. It looks at the entire market value rather than just the equity value, so all ownership interests and asset claims from both debt and equity are included. EV can be thought of as the effective cost of buying a company or the theoretical price of a target company (before a takeover premium is considered).
