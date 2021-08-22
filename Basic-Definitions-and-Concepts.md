@@ -68,5 +68,5 @@
 - *What is the Internal Rate of Return (IRR)?*: https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/
 - *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
 - *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
-
+- *How to Calculate IRR (using trial and error)*: https://www.youtube.com/watch?v=noWg6tQnHZ0
 ## Weighted Average Cost of Capital
