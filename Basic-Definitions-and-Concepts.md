@@ -1,8 +1,8 @@
 # Basic Definitions and Concepts
 - **[Book Value](#Book-Value)**
 - **[Enterprise Value](#Enterprise-Value)**
-- [Free Cash Flow (FCF)](#free-cash-flow)
-- [DCF Model](#dcf-model)
+- **[Free Cash Flow (FCF)](#free-cash-flow)**
+- **[DCF Model](#dcf-model)**
 - **[Net Present Value (NPV)](#net-present-value)**
 - **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
 
@@ -63,6 +63,6 @@
 - *Present Value of an Annuity*: https://www.youtube.com/watch?v=lsc06_SnJts
 
 ## Internal Rate of Return
-- 
+- *What is the Internal Rate of Return (IRR)?*: https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/
 - *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
 - *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
