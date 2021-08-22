@@ -12,7 +12,13 @@
 - A simple means of computing book value is to add up the common stock equity accounts and reduce this total by any senior claims not reflected in the balance sheet (including preferred stock dividend arrearages, liquidation premiums, or other asset preferences to which preferred shares are entitled)
 - **Book value per share** is the per share amount resulting from a company’s liquidation at amounts reported on its balance sheet
 ![image](https://user-images.githubusercontent.com/85560091/130372898-d0d4fac8-0955-4387-9648-f909ccedaee6.png)
-
+- Book value plays an important role in analysis of financial statements. Applications can include the following:
+  - Book value, with potential adjustments, is frequently used in assessing merger terms.
+  - Analysis of companies composed of mainly liquid assets (finance, investment, insurance, and banking institutions) relies extensively on book values.
+  - Analysis of high-grade bonds and preferred stock attaches considerable importance to asset coverage.
+- These applications must recognize the accounting considerations entering into the computation of book value per share such as the following:
+  - Carrying values of assets, particularly long-lived assets like property, plant, and equipment, are usually reported at cost and can markedly differ from market values.
+  - Internally generated intangible assets often are not reflected in book value, nor are contingent assets with a reasonable probability of occurrence.
 
 
 ## Enterprise Value
