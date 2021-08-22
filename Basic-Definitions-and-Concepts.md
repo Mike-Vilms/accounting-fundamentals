@@ -1,8 +1,8 @@
 # Basic Definitions and Concepts
-- [Enterprise Value](#Enterprise-Value)
+- **[Enterprise Value](#Enterprise-Value)**
 - [Free Cash Flow (FCF)](#free-cash-flow)
 - [DCF Model](#dcf-model)
-- [Net Present Value (NPV)](#net-present-value)
+- **[Net Present Value (NPV)](#net-present-value)**
 - [Internal Rate of Return (IRR)](#internal-rate-of-return)
 
 ## Enterprise Value
