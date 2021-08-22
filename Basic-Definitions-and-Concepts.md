@@ -5,7 +5,7 @@
 - **[DCF Model](#dcf-model)**
 - **[Net Present Value (NPV)](#net-present-value)**
 - **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
-
+- **[Weighted Average Cost of Capital (WACC)](#Weighted Average Cost of Capital)**
 ## Book Value
 - Book value is conventional terminology referring to net asset value — that is, total assets reduced by claims against them
 - The *book value of common stock* is equal to the total assets less liabilities and claims of securities senior to common stock (such as preferred stock) at amounts reported on the balance sheet (but can also include unbooked claims of senior securities)
@@ -66,3 +66,5 @@
 - *What is the Internal Rate of Return (IRR)?*: https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/
 - *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
 - *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
+
+## Weighted Average Cost of Capital
