@@ -3,7 +3,7 @@
 - [Free Cash Flow (FCF)](#free-cash-flow)
 - [DCF Model](#dcf-model)
 - **[Net Present Value (NPV)](#net-present-value)**
-- [Internal Rate of Return (IRR)](#internal-rate-of-return)
+- **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
 
 ## Enterprise Value
 - Enterprise Value (EV) is the measure of a company’s total value. It looks at the entire market value rather than just the equity value, so all ownership interests and asset claims from both debt and equity are included. EV can be thought of as the effective cost of buying a company or the theoretical price of a target company (before a takeover premium is considered).
@@ -44,4 +44,9 @@
 - *What is Net Present Value (NPV)?*: https://corporatefinanceinstitute.com/resources/knowledge/valuation/net-present-value-npv/
 - *What is the NPV Formula?*: https://corporatefinanceinstitute.com/resources/knowledge/valuation/npv-formula/
 - *Net Present Value (NPV)*: https://www.youtube.com/watch?v=HFFkFMfotT0
+- *Present Value of an Annuity*: https://www.youtube.com/watch?v=lsc06_SnJts
+
 ## Internal Rate of Return
+- 
+- *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
+- *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
