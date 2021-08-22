@@ -32,6 +32,8 @@
 
 ## Net Present Value
 - Net Present Value (NPV) is the value of all future cash flows (positive and negative) over the entire life of an investment discounted to the present. NPV analysis is a form of intrinsic valuation and is used extensively across finance and accounting for determining the value of a business, investment security, capital project, new venture, cost reduction program, and anything that involves cash flow.
+- In most cases, a financial analyst needs to calculate the net present value of a series of cash flows, not just one individual cash flow.  The formula works in the same way, however, each cash flow has to be discounted individually, and then all of them are added together.
+![image](https://user-images.githubusercontent.com/85560091/130342382-f3723612-76e7-41da-8234-d5fc3cc7e399.png)
 ![image](https://user-images.githubusercontent.com/85560091/130342369-3e57b34e-7378-4d98-8616-d34cd6eeecce.png)
 
 - 
