@@ -1,6 +1,6 @@
 # Basic Definitions and Concepts
 - **[Book Value](#Book-Value)**
-- **[Enterprise Value(EV)](#Enterprise-Value)**
+- **[Enterprise Value (EV)](#Enterprise-Value)**
 - **[Free Cash Flow (FCF)](#free-cash-flow)**
 - **[DCF Model](#dcf-model)**
 - **[Net Present Value (NPV)](#net-present-value)**
