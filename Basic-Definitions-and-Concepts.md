@@ -78,5 +78,12 @@
 ## Weighted Average Cost of Capital
 
 ## Depreciation
-- Depreciation is the allocation of the costs of plant and equipment (land is not depreciated) over their useful lives.
-- Although added back in the statement of cash flows as a noncash expense, depreciation does not provide funds for replacement of an asset. 
+- Depreciation is the allocation of the costs of plant and equipment (land is not depreciated) over their useful lives
+- Although added back in the statement of cash flows as a noncash expense, depreciation does not provide funds for replacement of an asset
+- The *rate of depreciation* depends on two factors: useful life and allocation method
+- **```Useful Life```**
+  - Assumptions regarding useful lives of assets are based on economic conditions, engineering studies, experience, and information about an asset’s physical and productive properties
+  - Physical deterioration is an important factor limiting useful life, and nearly all assets are subject to it. The frequency and quality of maintenance bear on physical deterioration
+  - Another limiting factor is **obsolescence**, which impacts useful life through technological developments, consumption patterns, and economic forces
+  - Ordinary obsolescence occurs when technological developments make an asset inefficient or uneconomical before its physical life is complete
+  - 6
