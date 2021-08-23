@@ -7,6 +7,9 @@
 - **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
 - **[Weighted Average Cost of Capital (WACC)](#Weighted-Average-Cost-of-Capital)** #TODO
 - **[EBITDA](#EBITDA)** #TODO
+- **[Depreciation](#Depreciation)**
+  - **[Straight-line Method](#Straight-line-Method)**
+  - **[Accelerated Method](#Accelerated-Method)**
 
 ## Book Value
 - Book value is conventional terminology referring to net asset value — that is, total assets reduced by claims against them
@@ -71,4 +74,9 @@
 - *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
 - *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
 - *How to Calculate IRR (using trial and error)*: https://www.youtube.com/watch?v=noWg6tQnHZ0
+
 ## Weighted Average Cost of Capital
+
+## Depreciation
+- Depreciation is the allocation of the costs of plant and equipment (land is not depreciated) over their useful lives.
+- Although added back in the statement of cash flows as a noncash expense, depreciation does not provide funds for replacement of an asset. 
