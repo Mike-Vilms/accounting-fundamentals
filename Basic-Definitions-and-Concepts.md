@@ -97,4 +97,13 @@
 - Cons: 
   - Straight-line depreciation implicitly assumes that depreciation in early years is identical to that in later years when the asset is likely less efficient and requires increased maintenance
   - Another flaw with straight-line depreciation, and one of special interest for analysis, is the resulting distortion in rate of return
-#### ```Straight-line method of depreciation```
+#### ```Accelerated-line method of depreciation```
+- Accelerated methods of depreciation allocate the cost of an asset to its useful life in a decreasing manner
+- Their appeal for tax purposes is the acceleration of cost allocation and the subsequent deferral of taxable income
+- The **faster an asset is written off for tax purposes, the greater the tax deferral to future periods** and the more funds immediately available for operations
+- The conceptual support for accelerated methods is the view that decreasing depreciation charges over time compensate for
+  - Increasing repair and maintenance costs
+  - Decreasing revenues and operating efficiency
+  - Higher uncertainty of revenues in later years of aged assets (due to obsolescence).
+- The two most common accelerated depreciation methods are *declining balance* and *sum of the years’ digits*
+-  
