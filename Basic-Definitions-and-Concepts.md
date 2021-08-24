@@ -86,4 +86,10 @@
   - Physical deterioration is an important factor limiting useful life, and nearly all assets are subject to it. The frequency and quality of maintenance bear on physical deterioration
   - Another limiting factor is **obsolescence**, which impacts useful life through technological developments, consumption patterns, and economic forces
   - Ordinary obsolescence occurs when technological developments make an asset inefficient or uneconomical before its physical life is complete
-  - 6
+  - Once the useful life of an asset is determined, periodic depreciation expense depends on the *allocation method*. Two most common classes of methods: *straight-line and accelerated*
+#### ```Straight-line method of depreciation```
+- The straight-line method of depreciation allocates the cost of an asset to its useful life on the basis of equal periodic charges
+- The rationale for straight-line depreciation is the assumption that physical deterioration occurs uniformly over time
+- This assumption is likely more valid for fixed structures such as buildings than for machinery where utilization is a more important factor
+- Straight-line depreciation is used by approximately 85% of publicly traded companies for financial **reporting purposes**(accelerated methods of depreciation are used for tax returns as we discuss below)
+- ![image](https://user-images.githubusercontent.com/85560091/130537505-cbcba82f-0607-4f05-be9a-7a891215abde.png)
