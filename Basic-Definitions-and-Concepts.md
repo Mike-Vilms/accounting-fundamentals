@@ -89,6 +89,8 @@
   - Another limiting factor is **obsolescence**, which impacts useful life through technological developments, consumption patterns, and economic forces
   - Ordinary obsolescence occurs when technological developments make an asset inefficient or uneconomical before its physical life is complete
   - Once the useful life of an asset is determined, periodic depreciation expense depends on the *allocation method*. Two most common classes of methods: *straight-line and accelerated*
+- *Depreciation in Financial Accounting*: https://www.youtube.com/watch?v=fvj4iV3r49s
+- *Journal Entry for Depreciation*: https://www.youtube.com/watch?v=VAkJ1mV95uQ
 #### ```Straight-line method of depreciation```
 - The straight-line method of depreciation allocates the cost of an asset to its useful life on the basis of equal periodic charges
 - The rationale for straight-line depreciation is the assumption that physical deterioration occurs uniformly over time
@@ -99,6 +101,7 @@
 - Cons: 
   - Straight-line depreciation implicitly assumes that depreciation in early years is identical to that in later years when the asset is likely less efficient and requires increased maintenance
   - Another flaw with straight-line depreciation, and one of special interest for analysis, is the resulting distortion in rate of return
+- *Straight Line Depreciation Method*: https://www.youtube.com/watch?v=RHo_3kWaIJo
 #### ```Accelerated-line method of depreciation```
 - Accelerated methods of depreciation allocate the cost of an asset to its useful life in a decreasing manner
 - Their appeal for tax purposes is the acceleration of cost allocation and the subsequent deferral of taxable income
@@ -108,4 +111,5 @@
   - Decreasing revenues and operating efficiency
   - Higher uncertainty of revenues in later years of aged assets (due to obsolescence).
 - The two most common accelerated depreciation methods are *declining balance* and *sum of the years’ digits*
--  
+- **```Declining-balance Method```**
+- **```Sum-of-the-years’-digitsmethod```**
