@@ -8,7 +8,7 @@
 - **[Weighted Average Cost of Capital (WACC)](#Weighted-Average-Cost-of-Capital)** #TODO
 - **[EBITDA](#EBITDA)** #TODO
 - **[Depreciation](#Depreciation)**
-  - **[Straight-line Method](#Straight-line-Method)**
+  - **[Straight-line Method](#Straight-line-method-of-depreciation)**
   - **[Accelerated Method](#Accelerated-Method)**
 
 ## Book Value
@@ -93,3 +93,8 @@
 - This assumption is likely more valid for fixed structures such as buildings than for machinery where utilization is a more important factor
 - Straight-line depreciation is used by approximately 85% of publicly traded companies for financial **reporting purposes**(accelerated methods of depreciation are used for tax returns as we discuss below)
 - ![image](https://user-images.githubusercontent.com/85560091/130537505-cbcba82f-0607-4f05-be9a-7a891215abde.png)
+- Pros: simplicity
+- Cons: 
+  - Straight-line depreciation implicitly assumes that depreciation in early years is identical to that in later years when the asset is likely less efficient and requires increased maintenance
+  - Another flaw with straight-line depreciation, and one of special interest for analysis, is the resulting distortion in rate of return
+#### ```Straight-line method of depreciation```
