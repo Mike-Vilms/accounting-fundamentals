@@ -112,4 +112,8 @@
   - Higher uncertainty of revenues in later years of aged assets (due to obsolescence).
 - The two most common accelerated depreciation methods are *declining balance* and *sum of the years’ digits*
 - **```Declining-balance Method```**
+  - The declining-balance method applies a constant rate to the declining asset balance (carrying value)
+  - In practice, an approximation to the exact rate of declining-charge depreciation is to use a multiple (often two times) of the straight line rate.
+  - For example, an asset with a 10-year useful life is depreciated at a double declining-balance rate of 20% computed as [2*(1⁄10)]
+  - 
 - **```Sum-of-the-years’-digitsmethod```**
