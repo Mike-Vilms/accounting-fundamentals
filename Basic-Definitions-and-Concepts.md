@@ -9,7 +9,9 @@
 - **[EBITDA](#EBITDA)** #TODO
 - **[Depreciation](#Depreciation)**
   - **[Straight-line Method](#Straight-line-method-of-depreciation)**
-  - **[Accelerated Method](#Accelerated-Method)**
+  - **[Accelerated Method](#Accelerated-Method)** #TODO
+- **[Depletion](#Depletion)** #TODO
+- **[Impairment](#Impairment)** #TODO
 
 ## Book Value
 - Book value is conventional terminology referring to net asset value — that is, total assets reduced by claims against them
