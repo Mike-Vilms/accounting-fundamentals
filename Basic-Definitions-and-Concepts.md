@@ -115,5 +115,7 @@
   - The declining-balance method applies a constant rate to the declining asset balance (carrying value)
   - In practice, an approximation to the exact rate of declining-charge depreciation is to use a multiple (often two times) of the straight line rate.
   - For example, an asset with a 10-year useful life is depreciated at a double declining-balance rate of 20% computed as [2*(1⁄10)]
-  - 
+  - *Double Declining Balance Depreciation Method*: https://www.youtube.com/watch?v=ziayge17w6g
 - **```Sum-of-the-years’-digitsmethod```**
+- 
+  - *Sum of the Years' Digits Depreciation*: https://www.youtube.com/watch?v=UeDW3Fd6BKk
