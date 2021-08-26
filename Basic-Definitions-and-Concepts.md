@@ -115,7 +115,10 @@
   - The declining-balance method applies a constant rate to the declining asset balance (carrying value)
   - In practice, an approximation to the exact rate of declining-charge depreciation is to use a multiple (often two times) of the straight line rate.
   - For example, an asset with a 10-year useful life is depreciated at a double declining-balance rate of 20% computed as [2*(1⁄10)]
+  - Because an asset is never depreciated below its salvage value, companies take care to ensure that declining-balance methods do not violate this. When depreciation expense using the declining-balance method falls below the straight-line rate, it is common practice to use the straight-line rate for the remaining periods
   - *Double Declining Balance Depreciation Method*: https://www.youtube.com/watch?v=ziayge17w6g
 - **```Sum-of-the-years’-digitsmethod```**
-- 
+  -  The sum-of-the-years’-digits method applies a decreasing fraction to asset cost less salvage value
+  - For example, an asset depreciated over a five-year period is written off by applying a fraction whose denominator is the sum of the five years’ digits (1 + 2 + 3 + 4 + 5 = 15) and whose numerator is the remaining life from the beginning of the period. This yields a fraction of 5⁄15 for the first year, 4⁄15 for the second year, progressing to 1⁄15 in the fifth and final year
   - *Sum of the Years' Digits Depreciation*: https://www.youtube.com/watch?v=UeDW3Fd6BKk
+- ![image](https://user-images.githubusercontent.com/85560091/130909713-a175e67f-b405-4a5a-9d7f-32026f4dcd11.png)
