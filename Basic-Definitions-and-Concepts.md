@@ -120,3 +120,11 @@
   - For example, an asset depreciated over a five-year period is written off by applying a fraction whose denominator is the sum of the five years’ digits (1 + 2 + 3 + 4 + 5 = 15) and whose numerator is the remaining life from the beginning of the period. This yields a fraction of 5⁄15 for the first year, 4⁄15 for the second year, progressing to 1⁄15 in the fifth and final year
   - *Sum of the Years' Digits Depreciation*: https://www.youtube.com/watch?v=UeDW3Fd6BKk
 - ![image](https://user-images.githubusercontent.com/85560091/130909713-a175e67f-b405-4a5a-9d7f-32026f4dcd11.png)
+## Depletion
+- Depletion is the allocation of the cost of natural resources on the basis of rate of extraction or production
+- The difference between depreciation and depletion is that depreciation usually is an allocation of the cost of a productive asset over time, while depletion is an allocation of cost based on unit exploitation of natural resources like **coal, oil, minerals, or timber**
+- Example:
+  - If an ore deposit costs $5 million and contains an estimated 10 million recoverable tons, the depletion rate per ton of ore mined is $0.50. 
+  - Production and sale of 100,000 tons yields a depletion charge of $50,000 and a net balance in the asset account at year-end of $4.95 million.
+- Our analysis must be aware that, like depreciation, depletion can produce complications such as reliability, or lack thereof, of the estimate of recoverable resources. Companies must periodically review this estimate to ensure it reflects all information
+- *Depletion (Financial Accounting)*: https://www.youtube.com/watch?v=AJBt1fAL2yU
