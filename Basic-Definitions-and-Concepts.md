@@ -8,8 +8,6 @@
 - **[Weighted Average Cost of Capital (WACC)](#Weighted-Average-Cost-of-Capital)** #TODO
 - **[EBITDA](#EBITDA)** #TODO
 - **[Depreciation](#Depreciation)**
-  - **[Straight-line Method](#Straight-line-method-of-depreciation)**
-  - **[Accelerated Method](#Accelerated-Method)** #TODO
 - **[Depletion](#Depletion)** #TODO
 - **[Impairment](#Impairment)** #TODO
 
