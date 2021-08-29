@@ -39,3 +39,4 @@
 ### 3.1 Issuance of debt
 ### 3.2 Issuance of equity
 ### 3.3 Cash from financing
+<span>&#x1f1e7;&#x1f1f7;</span>
