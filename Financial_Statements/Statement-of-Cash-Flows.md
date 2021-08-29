@@ -39,4 +39,3 @@
 ### 3.1 Issuance of debt
 ### 3.2 Issuance of equity
 ### 3.3 Cash from financing
-:poland:
