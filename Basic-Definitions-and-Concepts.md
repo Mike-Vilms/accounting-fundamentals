@@ -5,6 +5,7 @@
 - **[DCF Model](#dcf-model)**
 - **[Net Present Value (NPV)](#net-present-value)**
 - **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
+- **[Capital Asset Pricing Model (CAPM)](#Capital-Asset-Pricing-Model)**
 - **[Weighted Average Cost of Capital (WACC)](#Weighted-Average-Cost-of-Capital)** #TODO
 - **[EBITDA](#EBITDA)** #TODO
 - **[Depreciation](#Depreciation)**
@@ -74,6 +75,9 @@
 - *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
 - *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
 - *How to Calculate IRR (using trial and error)*: https://www.youtube.com/watch?v=noWg6tQnHZ0
+
+## Capital Asset Pricing Model
+- 
 
 ## Weighted Average Cost of Capital
 
