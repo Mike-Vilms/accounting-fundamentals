@@ -235,3 +235,25 @@ Average cost |24,000 | 16,800 | 7,200
   - *Cash Dividends*: A cash dividend is a distribution of cash to shareholders. It is the most common form of dividend and, once declared, is a liability of a company
   - Another form of dividend is the dividend in kind, or property dividend. These dividends are payable in the assets of a company, in goods, or in the stock of another corporation. Such dividends are valued at the market value of the assets distributed
  - A *stock dividend* is a distribution of a company’s own shares to shareholders on a pro rata basis. It represents, in effect, a permanent capitalization of earnings. Shareholders receive additional shares in return for reallocation of retained earnings to capital accounts.
+
+## Summary
+-	Accounts receivable	-	Customers who have purchased on credit – accounts to be collected.
+-	Income taxes payable	-	Corporate taxes for the period that must be remitted to government.
+-	Long-term debt	-	Borrowing for business – one or multiple loans where term is longer than 12 months.
+-	Contingencies	-	A potential future liability that the company can reasonably estimate (eg, from a pending lawsuit)
+-	Property, plant & equipment	-	Physical assets used to generate income over a period of time greater than 12 months. Include things such as buildings, furniture, computers, vehicles, manufacturing equipment.
+-	Inventory	-	Goods either purchased or produced for sale to customers.
+-	Current portion of capital lease obligation	-	The amount owing over the next 12 months for capital lease payments.
+-	Cash and equivalents	-	Cash or items that act like cash (eg, short term money market funds) that a business holds.
+-	Common shares/stock	-	Shares held by investors in the company. These shares allow for voting rights and participation in profits.
+-	Current portion of long-term debt	-	The amount of any loan(s) repayments due within the next 12 month period.
+-	Goodwill	-	The premium paid on the acquisition of another business.
+-	Deferred income tax assets (expected to reverse in 12 months)	-	A timing difference due to the difference between accounting income and taxable income. Difference will reverse in the next reporting period.
+-	Unearned revenue	-	Revenues that have been collected from customers but have not yet been earned by the company (eg, performance of service has not yet occurred, or product has not yet been delivered).
+-	Accounts payable	-	Supplier invoices that relate to the current reporting period but that have not yet been paid.
+-	Retained earnings	-	The accumulated profits and losses of the business since inception. If the company has more losses than profit, then this would be stated as “retained deficit”.
+-	Intangible assets	-	Long term assets of the business that have no physical substance. Examples include licences, patents and trademarks.
+-	Capital lease obligation	-	Capital leases are leases that are related to specific assets. They act the same as a loan – except instead of borrowing money to purchase the item outright, the company leases the asset – but all the benefits of ownership are substantially transferred through the lease.
+-	Accrued liabilities	-	Liabilities that are related to the current reporting period but have not been paid. Typical accrued liabilities include compensation, audit and legal fees.
+-	Prepaid expenses	-	Expenses that have been incurred where the service has not as yet been “earned”/delivered. Typical prepaid expenses include insurance, rent and utilities.
+-	Preferred shares/stock	-	Shares purchased by investors that have fixed dividends that have a priority over common shareholders.
