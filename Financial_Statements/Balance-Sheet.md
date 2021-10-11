@@ -16,7 +16,7 @@
  - **[III. Shareholders' Equity](#III-Shareholders-Equity)**
    - **[3.1 Capital Stock](#31-Capital-Stock)**
    - **[3.2 Retained Earnings](#31-Retained-Earnings)**
- 
+ - **[IV. Summary](#iv-Summary)**
 ## I. Assets
 ### 1.1 Current Assets
 - Assets are resources controlled by a company for the purpose of generating profit. 
@@ -236,7 +236,7 @@ Average cost |24,000 | 16,800 | 7,200
   - Another form of dividend is the dividend in kind, or property dividend. These dividends are payable in the assets of a company, in goods, or in the stock of another corporation. Such dividends are valued at the market value of the assets distributed
  - A *stock dividend* is a distribution of a company’s own shares to shareholders on a pro rata basis. It represents, in effect, a permanent capitalization of earnings. Shareholders receive additional shares in return for reallocation of retained earnings to capital accounts.
 
-## Summary
+## IV. Summary
 -	Accounts receivable	-	Customers who have purchased on credit – accounts to be collected.
 -	Income taxes payable	-	Corporate taxes for the period that must be remitted to government.
 -	Long-term debt	-	Borrowing for business – one or multiple loans where term is longer than 12 months.
