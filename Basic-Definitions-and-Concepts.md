@@ -2,7 +2,6 @@
 - **[Book Value](#Book-Value)**
 - **[Enterprise Value (EV)](#Enterprise-Value)**
 - **[Free Cash Flow (FCF)](#free-cash-flow)**
-- **[DCF Model](#dcf-model)**
 - **[Capital Asset Pricing Model (CAPM)](#Capital-Asset-Pricing-Model)**
 - **[Weighted Average Cost of Capital (WACC)](#Weighted-Average-Cost-of-Capital)** #TODO
 - **[EBITDA](#EBITDA)** #TODO
