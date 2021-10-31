@@ -3,8 +3,6 @@
 - **[Enterprise Value (EV)](#Enterprise-Value)**
 - **[Free Cash Flow (FCF)](#free-cash-flow)**
 - **[DCF Model](#dcf-model)**
-- **[Net Present Value (NPV)](#net-present-value)**
-- **[Internal Rate of Return (IRR)](#internal-rate-of-return)**
 - **[Capital Asset Pricing Model (CAPM)](#Capital-Asset-Pricing-Model)**
 - **[Weighted Average Cost of Capital (WACC)](#Weighted-Average-Cost-of-Capital)** #TODO
 - **[EBITDA](#EBITDA)** #TODO
@@ -52,29 +50,6 @@
 - On the investors’ side, they must be wary of a company’s policies that affect their declaration of FCF. For example, some companies lengthen the time to settle their debts to maintain cash or, the opposite, shortening the time they collect debts due to them. Companies also have different guidelines on which assets they declare as capital expenditures, thus affecting the computation of FCF.
 - https://corporatefinanceinstitute.com/resources/knowledge/valuation/what-is-free-cash-flow-fcf/
 
-## Net Present Value
-- Net Present Value (NPV) is the value of all future cash flows (positive and negative) over the entire life of an investment discounted to the present. NPV analysis is a form of intrinsic valuation and is used extensively across finance and accounting for determining the value of a business, investment security, capital project, new venture, cost reduction program, and anything that involves cash flow.
-- In most cases, a financial analyst needs to calculate the net present value of a series of cash flows, not just one individual cash flow.  The formula works in the same way, however, each cash flow has to be discounted individually, and then all of them are added together.
-- Here is the mathematical formula for calculating the present value of an individual cash flow:
-  - *NPV = F / [ (1 + i)^n ]*
-  - *PV* = Present Value
-  - *F* = Future payment (cash flow)
-  - *i* = Discount rate (or interest rate)
-  - *n* = the number of periods in the future the cash flow is
-![image](https://user-images.githubusercontent.com/85560091/130342382-f3723612-76e7-41da-8234-d5fc3cc7e399.png)
-![image](https://user-images.githubusercontent.com/85560091/130342369-3e57b34e-7378-4d98-8616-d34cd6eeecce.png)
-- *What is Net Present Value (NPV)?*: https://corporatefinanceinstitute.com/resources/knowledge/valuation/net-present-value-npv/
-- *What is the NPV Formula?*: https://corporatefinanceinstitute.com/resources/knowledge/valuation/npv-formula/
-- *Net Present Value (NPV)*: https://www.youtube.com/watch?v=HFFkFMfotT0
-- *Present Value of an Annuity*: https://www.youtube.com/watch?v=lsc06_SnJts
-
-## Internal Rate of Return
-- The Internal Rate of Return (IRR) is the discount rate that makes the net present value (NPV) of a project zero. 
-  - In other words, it is the expected compound annual rate of return that will be earned on a project or investment.
-- *What is the Internal Rate of Return (IRR)?*: https://corporatefinanceinstitute.com/resources/knowledge/finance/internal-rate-return-irr/
-- *IRR (Internal Rate of Return)*: https://www.youtube.com/watch?v=OSDDrZZaV8E
-- *NPV vs IRR*: https://www.youtube.com/watch?v=6RztxNwerOA
-- *How to Calculate IRR (using trial and error)*: https://www.youtube.com/watch?v=noWg6tQnHZ0
 
 ## Capital Asset Pricing Model
 - 
